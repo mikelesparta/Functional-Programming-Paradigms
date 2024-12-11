@@ -1,0 +1,14 @@
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 11\LAB11\LAB11\bin\Release\netcoreapp3.1\vector.modulus.exe
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 11\LAB11\LAB11\bin\Release\netcoreapp3.1\vector.modulus.deps.json
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 11\LAB11\LAB11\bin\Release\netcoreapp3.1\vector.modulus.runtimeconfig.json
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 11\LAB11\LAB11\bin\Release\netcoreapp3.1\vector.modulus.runtimeconfig.dev.json
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 11\LAB11\LAB11\bin\Release\netcoreapp3.1\vector.modulus.dll
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 11\LAB11\LAB11\bin\Release\netcoreapp3.1\vector.modulus.pdb
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 11\LAB11\LAB11\obj\Release\netcoreapp3.1\vector.modulus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 11\LAB11\LAB11\obj\Release\netcoreapp3.1\vector.modulus.AssemblyInfoInputs.cache
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 11\LAB11\LAB11\obj\Release\netcoreapp3.1\vector.modulus.AssemblyInfo.cs
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 11\LAB11\LAB11\obj\Release\netcoreapp3.1\vector.modulus.csproj.CoreCompileInputs.cache
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 11\LAB11\LAB11\obj\Release\netcoreapp3.1\vector.modulus.dll
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 11\LAB11\LAB11\obj\Release\netcoreapp3.1\vector.modulus.pdb
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 11\LAB11\LAB11\obj\Release\netcoreapp3.1\vector.modulus.genruntimeconfig.cache
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 11\LAB11\LAB11\obj\Release\netcoreapp3.1\vector.modulus.csproj.AssemblyReference.cache
