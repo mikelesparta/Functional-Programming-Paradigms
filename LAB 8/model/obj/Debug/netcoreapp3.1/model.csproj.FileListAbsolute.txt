@@ -1,0 +1,28 @@
+C:\Users\jotero\source\repos\lab08\model\bin\Debug\netcoreapp3.1\model.deps.json
+C:\Users\jotero\source\repos\lab08\model\bin\Debug\netcoreapp3.1\model.dll
+C:\Users\jotero\source\repos\lab08\model\bin\Debug\netcoreapp3.1\model.pdb
+C:\Users\jotero\source\repos\lab08\model\obj\Debug\netcoreapp3.1\model.csprojAssemblyReference.cache
+C:\Users\jotero\source\repos\lab08\model\obj\Debug\netcoreapp3.1\model.AssemblyInfoInputs.cache
+C:\Users\jotero\source\repos\lab08\model\obj\Debug\netcoreapp3.1\model.AssemblyInfo.cs
+C:\Users\jotero\source\repos\lab08\model\obj\Debug\netcoreapp3.1\model.csproj.CoreCompileInputs.cache
+C:\Users\jotero\source\repos\lab08\model\obj\Debug\netcoreapp3.1\model.dll
+C:\Users\jotero\source\repos\lab08\model\obj\Debug\netcoreapp3.1\model.pdb
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 8\ptp8material_2021\lab08\model\bin\Debug\netcoreapp3.1\model.deps.json
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 8\ptp8material_2021\lab08\model\bin\Debug\netcoreapp3.1\model.dll
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 8\ptp8material_2021\lab08\model\bin\Debug\netcoreapp3.1\model.pdb
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 8\ptp8material_2021\lab08\model\obj\Debug\netcoreapp3.1\model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 8\ptp8material_2021\lab08\model\obj\Debug\netcoreapp3.1\model.AssemblyInfoInputs.cache
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 8\ptp8material_2021\lab08\model\obj\Debug\netcoreapp3.1\model.AssemblyInfo.cs
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 8\ptp8material_2021\lab08\model\obj\Debug\netcoreapp3.1\model.csproj.CoreCompileInputs.cache
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 8\ptp8material_2021\lab08\model\obj\Debug\netcoreapp3.1\model.dll
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 8\ptp8material_2021\lab08\model\obj\Debug\netcoreapp3.1\model.pdb
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 8\LAB 8\model\bin\Debug\netcoreapp3.1\model.deps.json
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 8\LAB 8\model\bin\Debug\netcoreapp3.1\model.dll
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 8\LAB 8\model\bin\Debug\netcoreapp3.1\model.pdb
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 8\LAB 8\model\obj\Debug\netcoreapp3.1\model.csproj.AssemblyReference.cache
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 8\LAB 8\model\obj\Debug\netcoreapp3.1\model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 8\LAB 8\model\obj\Debug\netcoreapp3.1\model.AssemblyInfoInputs.cache
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 8\LAB 8\model\obj\Debug\netcoreapp3.1\model.AssemblyInfo.cs
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 8\LAB 8\model\obj\Debug\netcoreapp3.1\model.csproj.CoreCompileInputs.cache
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 8\LAB 8\model\obj\Debug\netcoreapp3.1\model.dll
+C:\Users\mikel\Documents\UNIOVI\TPP\LAB\LAB 8\LAB 8\model\obj\Debug\netcoreapp3.1\model.pdb
